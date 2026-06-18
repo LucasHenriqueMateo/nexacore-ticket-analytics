@@ -1,0 +1,21 @@
+{
+  "name": "NexaCore Analytics",
+  "dataColors": ["#378ADD","#1E3A5F","#85B7EB","#B5D4F4","#E24B4A","#EF9F27","#639922","#888780"],
+  "background": "#F4F6F9",
+  "foreground": "#1E3A5F",
+  "tableAccent": "#378ADD",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "outline": [{ "value": "None" }],
+        "borderColor": [{ "value": "#F4F6F9" }]
+      }
+    }
+  }
+}
